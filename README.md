@@ -64,6 +64,24 @@ Partner courses on Factory24 are courses we offer to our students courtesy of ou
 We are always accepting new partners to the Factory24 platform and if you have similar courses that we can offer to our students, follow the submission guide hightlighted in our **# How To Submit New Courses** section, and if you experience any challenges or issues with any of the partner courses we offer on the platform follow the **# Issue Submission** guide above. 
 
 
+## Factory24 Partner Courses
 
+Factory24 also offers Professional Program Certificate courses offered through our partners. Some of our partners include Microsoft & Liquid Network. Our partners share our interest in exploring and unlocking new ways to add value to African businesses.
+
+Our partnership go beyond course partners. We also partner with local hubs to extend the platform access to more entrepreneurs and developers across the continent.
+
+## Submit New Courses
+
+## Become A Mentor / Instructor
+
+Factory24 is the perfect fit for you, if you’re passionate about identifying and nurturing next-gen innovators, entrepreneurs & creative problem solvers from Africa.
+
+The ultimate goal of the Factory24 project is being the platform and the source of disruptive innovations in Africa to develop and build solutions that overcome current social-economic challenges, transform Africa's human capital in technology and leapfrog into the 5th industrial revolution. We aim to be a stimulus to young entrepreneurs in Africa and we welcome all who want to be a part of that.
+
+## Course Certification Options
+
+Over the course of each program, Factory24 runs facilitator led courses to explore the subject deeper. Although its self paced, being instructor led ensures the learning process is very hands on. weekly tasks are assigned to ensure this throughout the course. As a course participant you’ll join the dedicated course whatsapp group to facilitate communication between students and the facilitator.
+
+At the end of the course period, participants have the option to apply for a course completion certificate.
 
 
